@@ -3,6 +3,11 @@
 
 [**(in English hereinafter)**](#English)
 
+Fork dans le but d'ajouter quelques caractères pour le japonais romanisé, 
+et mettre le ' à la place du ’ de la touche morte + espace
+et déplacer le ’ ailleurs
+
+
 Une disposition de clavier ergonomique optimisée pour le français, l’anglais et
 le code.
 
